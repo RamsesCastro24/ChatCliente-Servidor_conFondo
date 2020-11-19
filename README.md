@@ -34,6 +34,8 @@ _Basta con descargar el proyecto como Zip o con el mismo CMD, y ejecutarlo como 
 
 
 ### Ejemplo de como se veria toda la paqueteria del programa con sus clases:
+![image](https://user-images.githubusercontent.com/70773749/99707046-8f577580-2a61-11eb-8290-fc0db4b8026d.png)
+
 
 
 ### Ejemplo de la ejecucion del programa
