@@ -35,7 +35,6 @@ _Basta con descargar el proyecto como Zip o con el mismo CMD, y ejecutarlo como 
 
 ### Ejemplo de como se veria toda la paqueteria del programa con sus clases:
 
-![image](https://user-images.githubusercontent.com/70773749/99705601-8ebddf80-2a5f-11eb-83c9-4d04acf4bd26.png)
 
 ### Ejemplo de la ejecucion del programa
 1. Pequeña interfaz para asiganr un nombre al cliente
